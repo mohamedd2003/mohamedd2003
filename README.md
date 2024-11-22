@@ -12,7 +12,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Mohamed Hossam, MERN STACK Developer from Egypt
+  Hi, I'm Mohamed Hossam, Frontend Developer From Egypt
   <br>
   <br>
   🔬 I'm currently studying for my Bachelor's degree at Helwan University, Department of Computer Science And Statistics
