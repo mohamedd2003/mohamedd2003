@@ -8,7 +8,7 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="linkedin.com/in/mohamed-hossam-7b11b3220" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://linkedin.com/in/mohamed-hossam-7b11b3220" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
 </h5>
 <br>
 <p align="center">
