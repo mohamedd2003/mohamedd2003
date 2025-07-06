@@ -1,0 +1,28 @@
+name: Generate Pacman Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # كل يوم 12 منتصف الليل UTC
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate contribution graph
+        uses: lowlighter/metrics@latest
+        with:
+          filename: output/pacman-contribution-graph.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_contributors: no
+          plugin_followup: no
+          plugin_repositories: no
+          plugin_achievements: no
+          plugin_topics: no
+          plugin_notable: no
+          plugin_calendar: yes
+          plugin_calendar_mode: pacman
