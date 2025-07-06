@@ -47,8 +47,8 @@
 <!-- 🦖 Contribution Graph -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohamedd2003/mohamedd2003/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohamedd2003/mohamedd2003/output/pacman-contribution-graph.svg">
-    <img alt="Pac‑Man contribution graph" src="https://raw.githubusercontent.com/mohamedd2003/mohamedd2003/output/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohamedd2003/mohamedd2003/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohamedd2003/mohamedd2003/output/pacman-contribution-graph.svg" />
+    <img alt="Pac‑Man contribution graph" src="https://raw.githubusercontent.com/mohamedd2003/mohamedd2003/output/pacman-contribution-graph.svg" style="width: 100%; max-width: 900px;" />
   </picture>
 </p>
