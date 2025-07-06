@@ -20,7 +20,7 @@
   <a href="https://discord.gg/mFUWvyRb" target="_blank">
     <img src="https://img.shields.io/badge/Discord Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/mohamedhossamm___" target="_blank">
+  <a href="https://www.instagram.com/mohamedhossamm___/?utm_source=qr" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:mohamedd.hossammm@gmail.com" target="_blank">
