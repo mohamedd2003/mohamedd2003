@@ -52,3 +52,5 @@
     <img alt="Pac‑Man contribution graph" src="https://raw.githubusercontent.com/mohamedd2003/mohamedd2003/output/pacman-contribution-graph.svg" style="width: 100%; max-width: 900px;" />
   </picture>
 </p>
+<img src="https://raw.githubusercontent.com/mohamedd2003/mohamedd2003/main/output/pacman-contribution-graph.svg" />
+
