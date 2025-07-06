@@ -17,6 +17,8 @@ jobs:
         with:
           filename: output/pacman-contribution-graph.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.METRICS_TOKEN }}
+          committer_branch: main
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
