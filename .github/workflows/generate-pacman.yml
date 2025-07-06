@@ -12,17 +12,14 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Generate contribution graph
+       - name: Generate contribution graph
         uses: lowlighter/metrics@latest
         with:
           filename: output/pacman-contribution-graph.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
-          plugin_contributors: no
-          plugin_followup: no
-          plugin_repositories: no
-          plugin_achievements: no
-          plugin_topics: no
-          plugin_notable: no
           plugin_calendar: yes
-          plugin_calendar_mode: pacman
+          plugin_calendar_type: pacman
+          plugin_calendar_days: 365
+          plugin_calendar_limit: 0
+          plugin_calendar_sections: yes
